@@ -1,8 +1,11 @@
 # Mini VEXNet Comp Switch
 
-This project was heavily inspireed by https://github.com/Qlbbl1111/mini-comp-switch, and was *originally* just gonna be a fork of that, but I redesigned the whole thing using other sources and made my own instead.
+<img width="854" height="511" alt="cover-image" src="https://github.com/user-attachments/assets/d33028fc-7de1-4253-a9e9-bdb507d18063" />
 
-I am not an employee of or associated with VEX Robotics, Inc. or Innovation First International, Inc. This project is only for personal experimentation and not for commercial sale.
+<br>
+This project was heavily inspired by https://github.com/Qlbbl1111/mini-comp-switch, and was originally just gonna be a fork of that, but I made my own version with the available resources.
+
+I am not an employee of or associated with VEX Robotics, Inc. or Innovation First International, Inc. This project is only for personal usage and not for commercial sale.
 
 # Sources
 - https://content.vexrobotics.com/docs/VEXnet%20Comp%20Sw%20Diagram.pdf (Actual wiring, provided by VEX themselves)
