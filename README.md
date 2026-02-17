@@ -7,6 +7,10 @@ This project was heavily inspired by https://github.com/Qlbbl1111/mini-comp-swit
 
 I am not an employee of or associated with VEX Robotics, Inc. or Innovation First International, Inc. This project is only for personal usage and not for commercial sale.
 
+# Bill of Materials
+- 1x RJ45 Female Connector (https://www.lcsc.com/product-detail/C386758.html)
+- 2x Slide Switch (https://www.lcsc.com/product-detail/C2939726.html)
+
 # Sources
 - https://content.vexrobotics.com/docs/VEXnet%20Comp%20Sw%20Diagram.pdf (Actual wiring, provided by VEX themselves)
 - https://github.com/Qlbbl1111/mini-comp-switch (Original idea, tysm)
