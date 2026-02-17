@@ -1,7 +1,7 @@
-# mini-comp-switch
+# Mini VEXNet Comp Switch
 
-**This is a fork of the original project! If you want to support the original creator, you can purchase their product here: https://www.tindie.com/products/qlbbl/mini-vexnet-competition-switch/**
+This project was heavily inspireed by https://github.com/Qlbbl1111/mini-comp-switch, and was *originally* just gonna be a fork of that, but I redesigned the whole thing using other sources and made my own instead.
 
-This Mini VEX Comp Switch is an ultra miniaturized version of the official "VEXnet Competition Switch". This switch has the ability to toggle between autonomous & operator control mode and to enable/disable the robot. Use this to simulate a VEX field controller for match practice, autonomous coding, and more!
-
-Mini VEXnet Competition Switch © 2024 by Quinn Burke is licensed under CC BY-NC-SA 4.0, and this revision by Christian Greene falls under the same license.
+# Sources
+- https://content.vexrobotics.com/docs/VEXnet%20Comp%20Sw%20Diagram.pdf (Actual wiring, provided by VEX themselves)
+- https://github.com/Qlbbl1111/mini-comp-switch (Original idea, tysm)
